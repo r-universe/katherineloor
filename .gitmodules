@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "RcppCensSpatial"]
+	path = RcppCensSpatial
+	url = https://github.com/katherineloor/rcppcensspatial
+	shallow = true
+	registered = true
+[submodule "relliptical"]
+	path = relliptical
+	url = https://github.com/katherineloor/relliptical
+	shallow = true
+	registered = true

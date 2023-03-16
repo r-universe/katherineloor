@@ -1,0 +1,10 @@
+[
+  {
+    "package": "RcppCensSpatial",
+    "oncran": true
+  },
+  {
+    "package": "relliptical",
+    "oncran": true
+  }
+]
